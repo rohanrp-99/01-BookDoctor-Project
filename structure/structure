@@ -1,0 +1,97 @@
+1. Home Page
+Header:
+Logo
+Navigation Bar (Home, About Us, Services, Doctors, Contact, Login/Signup)
+Main Banner:
+Search Bar (Search by Doctor, Specialty, Location)
+Call-to-action button (e.g., "Book an Appointment")
+Services Section:
+List of medical services provided (e.g., General Medicine, Pediatrics, Cardiology)
+Featured Doctors:
+Cards displaying top-rated doctors with images, names, specialties, and "Book Now" buttons
+Patient Testimonials:
+Carousel or grid of patient reviews and ratings
+Footer:
+Links to Privacy Policy, Terms of Service, Social Media Icons
+2. Doctor Listing/Search Results Page
+Header:
+Search Bar (with filters for specialty, location, ratings)
+Doctor Filters Sidebar:
+Filters for Specialty, Location, Ratings, Availability
+Doctor Cards/Grid:
+Doctor's Photo
+Name, Specialty, Experience
+Ratings and Reviews
+"View Profile" and "Book Now" buttons
+3. Doctor Profile Page
+Doctor Information:
+Profile Picture
+Name, Specialty, Experience
+Detailed Biography
+Contact Information
+Appointment Availability:
+Calendar for available dates and times
+"Book Now" button
+Patient Reviews:
+Section displaying patient feedback
+Location & Directions:
+Map integration showing clinic/hospital location
+4. Appointment Booking Page
+Patient Details Form:
+Fields for Name, Contact Information, Date of Birth, Symptoms/Reason for Visit
+Appointment Details:
+Selected Doctor, Date, Time, and Location
+Payment Integration:
+Payment gateway options (Credit Card, Debit Card, Insurance, etc.)
+Confirmation Section:
+Summary of booking details
+"Confirm Appointment" button
+5. Patient Dashboard
+Sidebar Navigation:
+Upcoming Appointments
+Past Appointments
+Medical Records
+Account Settings
+Upcoming Appointments Section:
+List of scheduled appointments with options to reschedule or cancel
+Medical Records:
+Upload and view medical documents
+Account Settings:
+Update personal details, change password, manage notifications
+6. Admin Panel
+Dashboard Overview:
+Statistics on bookings, patient numbers, feedback ratings
+Manage Doctors:
+Add, edit, or remove doctor profiles
+Manage Appointments:
+View, confirm, or cancel appointments
+Patient Management:
+View patient records, manage accounts
+Content Management:
+Update services, testimonials, FAQs
+7. Login/Signup Page
+Tabs for Login and Signup:
+Fields for Email, Password (with option to login via social media)
+Signup form with Name, Email, Password, Confirm Password
+"Forgot Password?" link
+"Remember Me" checkbox
+8. Contact Us Page
+Contact Form:
+Fields for Name, Email, Phone Number, Message
+Contact Information:
+Phone Number, Email Address, Physical Address
+Map Integration:
+Embedded map showing the office location
+9. About Us Page
+Our Story:
+Brief history and mission statement of the application
+Team Members:
+Photos and bios of the core team
+Mission & Values:
+Statements on service quality, patient care
+10. FAQ Page
+Common Questions:
+List of frequently asked questions with expandable answers
+Search Bar:
+Allow users to search for specific queries
+This 
