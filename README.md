@@ -7,7 +7,7 @@ BookDoctor is a responsive website built using HTML and CSS. It serves as an onl
 ## Project
 
 (https://github.com/rohanrp-99/01-BookDoctor-Project)
-### Link -> **[View Project ](http://127.0.0.1:5500/index.html)**
+### Link -> **[View Project ](https://github.com/rohanrp-99/01-BookDoctor-Project)**
 
 <h2>Features</h2>
 
@@ -24,3 +24,9 @@ BookDoctor is a responsive website built using HTML and CSS. It serves as an onl
 **Navigation Bar**: Easy-to-use navigation bar for quick access to different sections of the website.
 
 **Footer**: Informative footer with links to social media, contact information, and privacy policy.
+
+## Technologies Used
+
+- **HTML5** for structuring the form.
+
+- **CSS3** for styling, including layout, typography, and colors.
