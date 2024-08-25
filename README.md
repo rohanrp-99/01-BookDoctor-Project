@@ -31,7 +31,7 @@ BookDoctor is a responsive website built using HTML and CSS. It serves as an onl
 
 - **CSS3** for styling, including layout, typography, and colors.
 
-- ## Getting Started
+## Getting Started
 
 To view the project locally:
 
