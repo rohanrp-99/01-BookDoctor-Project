@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"     background: url('img/img-1.jpg')>
     <h1>BookDoctor </h1>
 </div>
 
