@@ -30,3 +30,16 @@ BookDoctor is a responsive website built using HTML and CSS. It serves as an onl
 - **HTML5** for structuring the form.
 
 - **CSS3** for styling, including layout, typography, and colors.
+
+- ## Getting Started
+
+To view the project locally:
+
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/rohanrp-99/01-BookDoctor-Project.git
+    ```
+
+2. Open `index.html` in your web browser.
+
